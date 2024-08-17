@@ -3,6 +3,8 @@
 
 #### 深度思考：
 
+[LLVM IR混合执行虚拟机/C++冷更新工具](/blog/irvm.md)
+
 [QuickPy：动态类型语言的终极性能](/blog/qpy.md)
 
 [ken：C++ 、Python混合前端编译器](/blog/ken.md)
